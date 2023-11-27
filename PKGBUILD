@@ -1,6 +1,5 @@
-# Maintainer: Riccardo Berto <riccardo at rcrdbrt dot-symbol com>
-# 
-# Previous maintainers listed down here:
+# Maintainer: Knut Ahlers
+# Contributor: Riccardo Berto <riccardo at rcrdbrt dot-symbol com>
 # Contributor:  Moses Narrow <moe-narrow@use.startmail.com>
 # Contributor:  Dimitris Kiziridis <ragouel at outlook dot com>
 # Contributor: Konrad Tegtmeier <konrad.tegtmeier+aur@gmail.com>
