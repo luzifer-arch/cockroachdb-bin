@@ -1,5 +1,8 @@
-*.t*
-pkg/
-src/
-__pycache__
-update_check.py
+*
+!cockroach.default
+!cockroach.service
+!cockroach.sysusers
+!cockroach.tmpfiles
+!PKGBUILD
+!.SRCINFO
+!update_version.sh
