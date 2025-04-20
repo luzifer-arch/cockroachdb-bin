@@ -4,5 +4,4 @@
 !cockroach.sysusers
 !cockroach.tmpfiles
 !PKGBUILD
-!.SRCINFO
-!update_version.sh
+!renovate.json

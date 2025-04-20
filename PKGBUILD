@@ -6,7 +6,7 @@
 # Contributor: Marcel O'Neil <marcel@marceloneil.com>
 
 pkgname=cockroachdb-bin
-pkgver=25.1.4
+pkgver=25.1.4 # renovate: depName=cockroachdb
 pkgrel=1
 pkgdesc='An open source, survivable, strongly consistent, scale-out SQL database'
 arch=('x86_64')
