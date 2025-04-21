@@ -1,7 +1,8 @@
-*
-!cockroach.default
-!cockroach.service
-!cockroach.sysusers
-!cockroach.tmpfiles
-!PKGBUILD
-!renovate.json
+/*
+!/cockroach.default
+!/cockroach.service
+!/cockroach.sysusers
+!/cockroach.tmpfiles
+!/PKGBUILD
+!/renovate.json
+!/.forgejo
